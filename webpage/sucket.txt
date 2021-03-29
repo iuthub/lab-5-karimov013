@@ -1,0 +1,2 @@
+Sardorbek;MA;8600 2310 5568 8900;Master Card
+Sardorbek;MH;8200 1233 4789 4123;Visa Card
